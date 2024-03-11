@@ -1,0 +1,1 @@
+# NIKOLAINDUSTRY_AI_Model_Trainerdel
