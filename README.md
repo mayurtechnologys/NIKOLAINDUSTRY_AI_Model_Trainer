@@ -1,4 +1,4 @@
-# NIKOLAINDUSTRY_AI_Model_Trainerdel
+# NIKOLAINDUSTRY_AI_Model_Trainer
 Overview
 This Python application, developed under the name NIKOLAINDUSTRY, serves as an AI model trainer using TensorFlow and Tkinter for the graphical user interface. The purpose of this tool is to simplify the training process of image classification models.
 
